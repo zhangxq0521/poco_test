@@ -1,0 +1,7 @@
+# ignore these files
+
+/package/
+/build_x86/
+test_package/build/
+
+
