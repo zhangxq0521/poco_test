@@ -13,3 +13,6 @@ Then, you can easily enjoy the project:
 3. Run "install_to_local_repo.sh" to install this project to the local conan repository with the packge name: `poco_test/0.1@samuel/testing`.
 
 4. Finally, you could run test case by issuing command "test.sh".
+
+5. Of course, you could clean the project with the script file "clean.sh".
+
